@@ -23,5 +23,5 @@ The data cleaning and exploratory data analysis performed on the Titanic dataset
 ## Contact Information
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="https://www.linkedin.com/in/yash-sharma-a52026242/">Tufan Kundu (LinkedIn)</a>
+- <a href="https://www.linkedin.com/in/yash-sharma-a52026242/">Yash Shamra (LinkedIn)</a>
 - Email: syash2892@gmail.com
